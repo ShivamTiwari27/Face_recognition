@@ -11,7 +11,7 @@ The objective of this project is to recognize a person's face by comparing it to
 
 ## Dataset
 
-We use the AT&T face dataset, which consists of grayscale face images with dimensions 92x112. The dataset comprises 40 directories, each corresponding to a different subject (labeled as s1 to s40). Each subject directory contains ten different images (labeled as 1.pgm to 10.pgm) of that subject, captured under varying conditions such as lighting, facial expressions, and facial details.
+We use the AT&T face dataset, which consists of grayscale face images with dimensions 112x92. The dataset comprises 40 directories, each corresponding to a different subject (labeled as s1 to s40). Each subject directory contains ten different images (labeled as 1.pgm to 10.pgm) of that subject, captured under varying conditions such as lighting, facial expressions, and facial details.
 
 [AT&T face dataset](https://git-disl.github.io/GTDLBench/datasets/att_face_dataset/)
 
