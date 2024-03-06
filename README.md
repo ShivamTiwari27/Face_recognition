@@ -67,5 +67,3 @@ In the context of face recognition, PCA has additional limitations:
 For further details, refer to the provided [paper on Eigenfaces](https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf).
 
 ---
-
-This README.md file provides comprehensive information about the project, including its objectives, tasks performed, implementation steps, dataset details, and the advantages and limitations of PCA in facial recognition. Feel free to customize it further to suit your specific requirements and preferences. If you have any questions or need further assistance, please let me know!
