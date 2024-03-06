@@ -1,8 +1,3 @@
-# Face_recognition
-This repository features the implementation of the Principal Component Analysis (PCA) algorithm from scratch, followed by the development of a face recognition system using PCA.
-
-
-Here's a refined version of the README.md file for your GitHub repository:
 
 ---
 
